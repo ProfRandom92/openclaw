@@ -1,0 +1,135 @@
+{
+  "categories": {
+    "Urgent": {
+      "keywords": [
+        "urgent",
+        "asap",
+        "immediately",
+        "critical",
+        "emergency",
+        "deadline",
+        "time-sensitive"
+      ],
+      "senderPatterns": [],
+      "subjectPatterns": [
+        "urgent:",
+        "[urgent]",
+        "action required"
+      ],
+      "priority": 1
+    },
+    "Work": {
+      "keywords": [
+        "meeting",
+        "project",
+        "deadline",
+        "proposal",
+        "report",
+        "presentation",
+        "schedule",
+        "conference call",
+        "task"
+      ],
+      "senderPatterns": [
+        "@company.com",
+        "noreply",
+        "no-reply"
+      ],
+      "subjectPatterns": [
+        "re:",
+        "fwd:",
+        "meeting",
+        "project"
+      ],
+      "priority": 2
+    },
+    "Personal": {
+      "keywords": [
+        "birthday",
+        "family",
+        "friend",
+        "dinner",
+        "lunch",
+        "weekend",
+        "vacation"
+      ],
+      "senderPatterns": [],
+      "subjectPatterns": [],
+      "priority": 3
+    },
+    "Newsletter": {
+      "keywords": [
+        "newsletter",
+        "digest",
+        "weekly update",
+        "monthly update",
+        "subscribe",
+        "unsubscribe"
+      ],
+      "senderPatterns": [
+        "newsletter@",
+        "news@",
+        "updates@",
+        "noreply@"
+      ],
+      "subjectPatterns": [
+        "newsletter",
+        "digest",
+        "weekly",
+        "monthly"
+      ],
+      "priority": 4
+    },
+    "Social": {
+      "keywords": [
+        "facebook",
+        "twitter",
+        "linkedin",
+        "instagram",
+        "notification",
+        "friend request",
+        "tagged you",
+        "mentioned you",
+        "comment on",
+        "liked your"
+      ],
+      "senderPatterns": [
+        "@facebookmail.com",
+        "@twitter.com",
+        "@linkedin.com",
+        "@instagram.com",
+        "notification@"
+      ],
+      "subjectPatterns": [],
+      "priority": 5
+    },
+    "Promotional": {
+      "keywords": [
+        "sale",
+        "discount",
+        "offer",
+        "deal",
+        "promo",
+        "coupon",
+        "off",
+        "limited time",
+        "buy now",
+        "shop now",
+        "free shipping"
+      ],
+      "senderPatterns": [
+        "marketing@",
+        "promo@",
+        "offers@"
+      ],
+      "subjectPatterns": [
+        "% off",
+        "sale",
+        "offer",
+        "deal"
+      ],
+      "priority": 6
+    }
+  },
+  "customRules": []
+}

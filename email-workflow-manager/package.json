@@ -1,0 +1,29 @@
+{
+  "name": "email-workflow-manager",
+  "version": "1.0.0",
+  "description": "Intelligent email automation and workflow management for Gmail",
+  "main": "scripts/email-manager.js",
+  "type": "module",
+  "scripts": {
+    "auth": "node scripts/gmail-auth.js",
+    "manage": "node scripts/email-manager.js",
+    "test": "node --test tests/email-manager.test.js"
+  },
+  "keywords": [
+    "email",
+    "gmail",
+    "automation",
+    "productivity",
+    "openclaw"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^128.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "data-export-analysis",
+  "version": "1.0.0",
+  "description": "Extract, transform, and analyze data from 50+ sources",
+  "main": "scripts/exporter.js",
+  "type": "module",
+  "scripts": {
+    "export": "node scripts/exporter.js export",
+    "analyze": "node scripts/exporter.js analyze",
+    "report": "node scripts/exporter.js report",
+    "test": "node --test tests/exporter.test.js"
+  },
+  "keywords": [
+    "data",
+    "analytics",
+    "export",
+    "business-intelligence",
+    "openclaw"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "exceljs": "^4.4.0",
+    "pdfkit": "^0.14.0",
+    "mysql2": "^3.6.5",
+    "pg": "^8.11.3",
+    "stripe": "^14.10.0",
+    "@google-analytics/data": "^4.4.0",
+    "csv-writer": "^1.6.0",
+    "csv-parse": "^5.5.3",
+    "node-cron": "^3.0.3",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

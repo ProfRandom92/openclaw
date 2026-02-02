@@ -1,0 +1,34 @@
+{
+  "templates": {
+    "vacation": {
+      "subject": "Out of Office: {original_subject}",
+      "body": "Thank you for your email.\n\nI'm currently out of the office and will have limited access to email from {start_date} to {end_date}.\n\nI'll respond to your message as soon as possible upon my return.\n\nIf you need immediate assistance, please contact {backup_contact}.\n\nBest regards,\n{sender_name}",
+      "variables": ["start_date", "end_date", "backup_contact", "sender_name", "original_subject"]
+    },
+    "meeting_request": {
+      "subject": "Re: {original_subject}",
+      "body": "Thank you for your meeting request.\n\nI've received your request and will review my calendar. I'll get back to you within 24 hours with my availability.\n\nIn the meantime, feel free to view my calendar and book a time directly: {calendar_link}\n\nBest regards,\n{sender_name}",
+      "variables": ["calendar_link", "sender_name", "original_subject"]
+    },
+    "acknowledgment": {
+      "subject": "Re: {original_subject}",
+      "body": "Thank you for your email.\n\nI've received your message and wanted to let you know I'm looking into it. I'll provide a detailed response within {response_time}.\n\nBest regards,\n{sender_name}",
+      "variables": ["response_time", "sender_name", "original_subject"]
+    },
+    "quick_reply": {
+      "subject": "Re: {original_subject}",
+      "body": "Thanks for reaching out!\n\nI've received your email and will get back to you soon with a proper response.\n\nBest regards,\n{sender_name}",
+      "variables": ["sender_name", "original_subject"]
+    },
+    "not_interested": {
+      "subject": "Re: {original_subject}",
+      "body": "Thank you for reaching out.\n\nI appreciate your offer, but I'm not interested at this time.\n\nI wish you the best of luck with your endeavors.\n\nBest regards,\n{sender_name}",
+      "variables": ["sender_name", "original_subject"]
+    },
+    "custom": {
+      "subject": "{custom_subject}",
+      "body": "{custom_body}",
+      "variables": ["custom_subject", "custom_body"]
+    }
+  }
+}
