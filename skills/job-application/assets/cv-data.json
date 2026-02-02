@@ -1,0 +1,329 @@
+{
+  "personal": {
+    "name": "Alexander Kölnberger",
+    "location": "Goethestraße 6/0133, 74172 Neckarsulm",
+    "phone": "+49 160 92334709",
+    "email": "conrigs92@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alexander-koelnberger",
+    "github": "https://github.com/ProfRandom92",
+    "languages": {
+      "german": "Native",
+      "english": "Professional (B2-C1)"
+    }
+  },
+  "summary": "Cross-functional leader with 11 years of experience in process optimization and operational coordination. Currently a Security Specialist at CIBORUS Security & Service Solutions with expertise in military security operations. Strong technical background with 70+ professional certifications in IT Security, Cloud Technologies, and AI Agent Development. Specialized in Microsoft 365, Cybersecurity, AI Agent Development, and Cloud Infrastructure with proven success building CompTech, a Domain-Specific Language for AI Systems achieving 85% token reduction.",
+  "experience": [
+    {
+      "title": "Security Specialist",
+      "company": "CIBORUS Security & Service Solutions",
+      "location": "BW Hohe Mindern, BW Langenschaft Schwetzingen",
+      "start_date": "2024-08",
+      "end_date": null,
+      "current": true,
+      "responsibilities": [
+        "Responsible for security tasks at military facilities",
+        "Coordination of security-relevant processes and documentation",
+        "Ensure compliance and security standards in critical infrastructure",
+        "Monitoring of security systems and incident response"
+      ],
+      "achievements": [
+        "Successfully maintained 100% compliance record for critical infrastructure security standards",
+        "Implemented improved documentation processes reducing audit preparation time by 40%"
+      ]
+    },
+    {
+      "title": "Office Manager & Geschäftsführungsassistenz",
+      "company": "Familienunternehmen (Lebensmittellogistik)",
+      "location": "Germany",
+      "start_date": "2013-02",
+      "end_date": "2024-08",
+      "current": false,
+      "responsibilities": [
+        "Responsible for operational business management with 8-12 employees in security-critical projects",
+        "Optimization of business processes through digitalization, especially tour planning and billing",
+        "Interface management between teams, customers, and external partners",
+        "Coordination of communication, documentation, and administrative processes"
+      ],
+      "achievements": [
+        "Digitalized tour planning and billing processes, increasing efficiency by 50%",
+        "Led cross-functional team of 12 employees in security-critical logistics operations",
+        "Reduced administrative overhead by 30% through process optimization"
+      ]
+    },
+    {
+      "title": "Jugendbetreuer & Konfliktmanager",
+      "company": "Jugendzentrum Blue, Ginsheim",
+      "location": "Ginsheim, Germany",
+      "start_date": "2010-09",
+      "end_date": "2012-09",
+      "current": false,
+      "responsibilities": [
+        "Support of young people in challenging life situations through counseling and conflict resolution",
+        "Planning and execution of leisure activities, workshops, and events to promote social competencies",
+        "Building trust relationships and care for young people"
+      ],
+      "achievements": [
+        "Successfully mentored 50+ young people through challenging life situations",
+        "Designed and delivered 20+ workshops on conflict resolution and social skills"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "AI Agent Developer Specialization (Professional Program)",
+      "institution": "Vanderbilt University",
+      "year": "2025",
+      "field": "Artificial Intelligence, Agent Development"
+    },
+    {
+      "degree": "Microsoft Security Professional",
+      "institution": "Microsoft",
+      "year": "2024-2025",
+      "field": "Cybersecurity, Microsoft 365 Security"
+    },
+    {
+      "degree": "Sachkundeprüfung §34a GewO",
+      "institution": "IHK",
+      "year": "2013",
+      "field": "Security Industry Qualification"
+    },
+    {
+      "degree": "Realschulabschluss",
+      "institution": "Friedrich-Ebert-Schule Pfungstadt",
+      "year": "2010",
+      "field": "Secondary Education"
+    }
+  ],
+  "skills": {
+    "technical": {
+      "cybersecurity": [
+        "Industrial Cybersecurity",
+        "OT Security",
+        "Cloud Security",
+        "Endpoint Security",
+        "SIEM"
+      ],
+      "ai_ml": [
+        "AI Agent Development",
+        "Prompt Engineering",
+        "LLM Operations",
+        "Generative AI",
+        "NLP",
+        "Computer Vision"
+      ],
+      "microsoft": [
+        "Microsoft 365",
+        "Entra ID",
+        "Azure",
+        "Teams",
+        "SharePoint",
+        "Power Platform",
+        "Copilot"
+      ],
+      "cloud_infrastructure": [
+        "Google Cloud Platform (GCP)",
+        "Cloud Security",
+        "Linux",
+        "Testing/Automation"
+      ],
+      "data": [
+        "Data Engineering",
+        "Data Science",
+        "Data Analytics",
+        "Data Visualization"
+      ],
+      "automation": [
+        "Zapier",
+        "n8n",
+        "API Integration",
+        "Workflow Automation"
+      ],
+      "project_management": [
+        "CompTech (Domain-Specific Language for AI Systems with 85% Token Reduction)",
+        "Agile Projektmanagement",
+        "Lean Management"
+      ]
+    },
+    "soft_skills": [
+      "Process optimization & digitalization (12 employees team leadership)",
+      "Project management & agile methods",
+      "Risk management & compliance",
+      "Crisis management & conflict resolution",
+      "Interpersonal communication & consulting",
+      "Documentation & reporting",
+      "Business networking & customer relations"
+    ]
+  },
+  "certifications": {
+    "ai_ml": [
+      "AI & Machine Learning: AI Agent Development - LinkedIn Learning",
+      "Generative AI Fundamentals Specialization - IBM",
+      "Introduction to Artificial Intelligence (AI) - IBM",
+      "AI Fundamentals - LinkedIn Learning",
+      "Artificial Intelligence Foundations: Machine Learning - LinkedIn Learning",
+      "Artificial Intelligence Foundations: Neural Networks - LinkedIn Learning",
+      "Artificial Intelligence Foundations: Thinking Machines - LinkedIn Learning",
+      "Prompt Engineering - LinkedIn Learning",
+      "Prompt Engineering for ChatGPT - Vanderbilt University",
+      "Generative AI: Introduction to Large Language Models - Google Cloud",
+      "Introduction to Generative AI - Google Cloud",
+      "Introduction to Generative AI Studio - Google Cloud",
+      "Responsible AI - LinkedIn Learning",
+      "AI Ethics - LinkedIn Learning",
+      "Generative AI in Ethics Overview - LinkedIn Learning"
+    ],
+    "microsoft": [
+      "Microsoft Security Professional - Microsoft",
+      "Microsoft 365 Fundamentals - Microsoft",
+      "Microsoft Copilot Fundamentals - Microsoft",
+      "Microsoft Entra ID Fundamentals - Microsoft",
+      "Microsoft Teams Fundamentals - Microsoft",
+      "Microsoft SharePoint Fundamentals - Microsoft",
+      "Microsoft Word Fundamentals - Microsoft",
+      "Microsoft Outlook Fundamentals - Microsoft",
+      "Microsoft Excel Fundamentals - Microsoft",
+      "Microsoft Cloud Infrastructure - Microsoft",
+      "Career Essentials in Generative AI by Microsoft and LinkedIn",
+      "Copilot Integration Fundamentals - Microsoft"
+    ],
+    "cybersecurity": [
+      "Industrial Cybersecurity - LinkedIn Learning",
+      "OT Security Fundamentals - LinkedIn Learning",
+      "Cloud Security Fundamentals - LinkedIn Learning",
+      "Security Information and Event Management (SIEM) - LinkedIn Learning",
+      "ISO 27001 Information Security Management - LinkedIn Learning",
+      "ISO 27001 Information Security Associate - LinkedIn Learning",
+      "Security Awareness Training - LinkedIn Learning",
+      "Data Security Fundamentals - LinkedIn Learning",
+      "Endpoint Security Fundamentals - LinkedIn Learning",
+      "Security Compliance - LinkedIn Learning",
+      "Computer Security Fundamentals - LinkedIn Learning",
+      "Information Security Fundamentals - LinkedIn Learning",
+      "Cybersecurity Foundations - LinkedIn Learning"
+    ],
+    "data_analytics": [
+      "Data Engineering Fundamentals - LinkedIn Learning",
+      "Data Science Fundamentals - LinkedIn Learning",
+      "Data Analysis with Python - IBM",
+      "Data Visualization Fundamentals - LinkedIn Learning",
+      "Data Strategies - LinkedIn Learning",
+      "Excel for Data Analysts - LinkedIn Learning",
+      "Data Wrangling with Python - LinkedIn Learning"
+    ],
+    "cloud_platforms": [
+      "Google Cloud Platform (GCP) Fundamentals - Google Cloud",
+      "Cloud Infrastructure - LinkedIn Learning",
+      "Cloud Security - LinkedIn Learning"
+    ],
+    "project_management": [
+      "Agile Projektmanagement - LinkedIn Learning",
+      "Lean Management - LinkedIn Learning",
+      "Project Management Fundamentals - LinkedIn Learning",
+      "Digital Transformation - LinkedIn Learning",
+      "Team Leadership - LinkedIn Learning",
+      "Change Management - LinkedIn Learning",
+      "Interpersonal Communication - LinkedIn Learning",
+      "Conflict Resolution - LinkedIn Learning",
+      "Office Management - LinkedIn Learning"
+    ],
+    "automation": [
+      "Zapier Automation - LinkedIn Learning",
+      "n8n Workflow Automation - LinkedIn Learning",
+      "API Integration - LinkedIn Learning",
+      "CI-Learning Platform Management - LinkedIn Learning"
+    ],
+    "soft_skills": [
+      "Emotional Intelligence - LinkedIn Learning",
+      "Leadership Fundamentals - LinkedIn Learning",
+      "Resilience Training - LinkedIn Learning",
+      "Stress Management - LinkedIn Learning",
+      "Time Management - LinkedIn Learning",
+      "Working with Others - Youth Work Certificate",
+      "Customer Communication - LinkedIn Learning"
+    ]
+  },
+  "projects": [
+    {
+      "name": "CompTech - Domain-Specific Language for AI Systems",
+      "description": "Developed a custom Domain-Specific Language (DSL) for AI agent systems achieving 85% token reduction through optimized prompt engineering and structured communication patterns",
+      "technologies": [
+        "AI Agent Development",
+        "LLM Operations",
+        "Prompt Engineering",
+        "TypeScript",
+        "Python"
+      ],
+      "achievements": [
+        "85% reduction in token usage across AI agent interactions",
+        "Improved response quality and consistency",
+        "Reduced API costs by 80%"
+      ]
+    },
+    {
+      "name": "Business Process Digitalization",
+      "description": "Led digital transformation initiative for family logistics business, implementing automated tour planning, billing, and resource management systems",
+      "technologies": [
+        "Process Automation",
+        "Microsoft 365",
+        "Power Automate",
+        "Excel/Power BI"
+      ],
+      "achievements": [
+        "50% increase in operational efficiency",
+        "30% reduction in administrative overhead",
+        "Managed team of 12 employees through transition"
+      ]
+    }
+  ],
+  "preferences": {
+    "target_roles": [
+      "AI Agent Developer",
+      "AI Engineer",
+      "Cloud Security Specialist",
+      "Security Engineer",
+      "Microsoft 365 Administrator",
+      "Solutions Architect",
+      "DevOps Engineer",
+      "Cloud Infrastructure Engineer",
+      "Data Engineer",
+      "Analytics Engineer",
+      "Cybersecurity Analyst",
+      "Security Consultant",
+      "Automation Engineer",
+      "Integration Specialist"
+    ],
+    "locations": [
+      "Remote",
+      "Germany (Neckarsulm, Stuttgart, Heilbronn, Frankfurt, München, Berlin)",
+      "Europe (willing to relocate)"
+    ],
+    "salary_min": 60000,
+    "currency": "EUR",
+    "work_arrangement": [
+      "Remote-first",
+      "Hybrid (max 2 days/week on-site)"
+    ],
+    "contract_type": "Full-time, permanent",
+    "company_size": [
+      "Startup",
+      "Mid-size",
+      "Enterprise"
+    ],
+    "industries": [
+      "Technology",
+      "Cybersecurity",
+      "Cloud Services",
+      "AI/ML",
+      "Consulting"
+    ],
+    "benefits": [
+      "Professional development budget",
+      "Flexible working hours",
+      "Modern tech stack",
+      "International team",
+      "Certification support",
+      "Conference attendance",
+      "Home office equipment budget"
+    ]
+  }
+}
