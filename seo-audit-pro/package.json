@@ -1,0 +1,28 @@
+{
+  "name": "seo-audit-pro",
+  "version": "1.0.0",
+  "description": "Comprehensive SEO audit tool with actionable insights",
+  "main": "scripts/audit.js",
+  "type": "module",
+  "scripts": {
+    "audit": "node scripts/audit.js",
+    "test": "node --test tests/audit.test.js"
+  },
+  "keywords": [
+    "seo",
+    "audit",
+    "pagespeed",
+    "analytics",
+    "openclaw"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "pdfkit": "^0.14.0",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

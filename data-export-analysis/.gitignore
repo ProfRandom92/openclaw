@@ -1,0 +1,16 @@
+node_modules/
+.env
+*.log
+exports/
+reports/
+*.csv
+*.xlsx
+*.pdf
+credentials/
+*-credentials.json
+.DS_Store
+coverage/
+tmp/
+cache/
+*.sqlite
+*.db
